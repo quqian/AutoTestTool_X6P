@@ -535,7 +535,7 @@
             this.skinTabControl_TestMenu.PageHover = ((System.Drawing.Image)(resources.GetObject("skinTabControl_TestMenu.PageHover")));
             this.skinTabControl_TestMenu.PageImagePosition = CCWin.SkinControl.SkinTabControl.ePageImagePosition.Left;
             this.skinTabControl_TestMenu.PageNorml = null;
-            this.skinTabControl_TestMenu.SelectedIndex = 2;
+            this.skinTabControl_TestMenu.SelectedIndex = 0;
             this.skinTabControl_TestMenu.Size = new System.Drawing.Size(1056, 711);
             this.skinTabControl_TestMenu.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
             this.skinTabControl_TestMenu.TabIndex = 0;
